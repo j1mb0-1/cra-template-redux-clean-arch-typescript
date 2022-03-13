@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-redux-clean-arch-typescript",
+  "name": "@j1mb0-1/cra-template-redux-clean-arch-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "j1mb0-",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j1mb0-1/cra-template-redux-clean-arch-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/j1mb0-1/cra-template-redux-clean-arch-typescript/issues"
+  },
+  "homepage": "https://github.com/j1mb0-1/cra-template-redux-clean-arch-typescript#readme"
 }
